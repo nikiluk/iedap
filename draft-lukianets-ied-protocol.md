@@ -39,6 +39,9 @@ Here we need to write something!
 
 > I agree
 
+- [x] OK
+- [ ] it works
+
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
